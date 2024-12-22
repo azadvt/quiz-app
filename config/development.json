@@ -1,0 +1,11 @@
+{
+  "env": "development",
+  "logLevel": 10,
+  "url": "http://localhost",
+  "port": 8400,
+  "db": {
+    "url": "mongodb+srv://azadvtcalicut:2TBkhYhs2wqFAcfU@aifercluster.oje1i.mongodb.net/",
+    "name": "quizApp"
+  },
+  "jwt": ""
+}
